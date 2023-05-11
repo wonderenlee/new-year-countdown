@@ -65,4 +65,13 @@ h1 {
     .time {
         margin: 5px;
     }
+
+    .time h2 {
+        font-size: 12px;
+        margin: 0px;
+    }
+
+    .time small {
+        font-size: 10px;
+    }
 }
